@@ -1,0 +1,104 @@
+*{
+  font-family: 'Poppins', sans-serif;
+}
+
+body{
+  background-image: url("background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+ .background{
+   padding-bottom: 20px;
+  }
+
+.container{
+  display: block;
+  width: 60%;
+  height: 95%;
+  margin: auto;
+  margin-top: 2%;
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 20px;
+  padding-bottom: 20px;
+  border-radius: 2%;
+  text-align: center;
+
+}
+
+.logo{
+  width: 22%;
+  margin-top: 53px;
+  }
+
+h1{
+  font-size: 25px;
+  font-weight: 500;
+  color: #2bd114;
+  margin: 0px;
+}
+
+.button{
+  box-sizing: border-box;
+  background-color: #2bd114;
+  width: 85%;
+  height: 35px;
+  margin: auto;
+  margin-bottom: 15px;
+  padding-top: 4px;
+}
+
+.click{
+  font-family: sans-serif;
+  font-size: 10px;
+  border-style: 0,2px lightgrey;
+}
+
+.action{
+  text-align: left;
+  width: 85%;
+  margin: auto;
+  margin-bottom: 75px;
+  color: white;
+}
+
+.name{
+  display: inline-block;
+  color: white;
+  font-size: 18px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.text{
+  display: inline-block;
+  margin: 0;
+  }
+
+.address{
+  margin: 0;
+  color: lightgrey;
+  font-size: 12px;
+}
+
+.barra {
+display: block;
+height: 25px;
+border-radius: 3px;
+}
+
+section.gialla{
+  background-color: #f4bd4c;
+  width: 35%;
+}
+
+section.verde{
+  background-color: #38c13c;
+  width: 60%;
+}
+
+section.rossa{
+  background-color:	#cb2e42;
+  width: 15%;
+}
